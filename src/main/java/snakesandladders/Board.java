@@ -3,6 +3,7 @@ package snakesandladders;
 import java.util.List;
 
 public class Board {
+    //TODO
     private final List<Ladder> ladders;
     private final List<Snake> snakes;
     private int currentPosition;
